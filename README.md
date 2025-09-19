@@ -1,2 +1,2 @@
-Github and git conflict
+#Github and git conflict
 This is a sample repo
